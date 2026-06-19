@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weather>
+    <city>Zagreb</city>
+    <temperature>28</temperature>
+    <humidity>60</humidity>
+    <wind>12</wind>
+</weather>
